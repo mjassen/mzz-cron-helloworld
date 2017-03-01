@@ -1,4 +1,3 @@
-
 === mzz-cron-helloworld ===
 Contributors: mjjojo
 License: GPLv2
